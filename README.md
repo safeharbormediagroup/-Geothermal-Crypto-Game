@@ -1,4 +1,4 @@
-# --Game Geo Thermo
+# -- Geo Thermo
 🌋🪙 Geothermal Gold
 
 🌋 PART 1: THE SUPPLY
